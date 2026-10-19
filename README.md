@@ -6,7 +6,11 @@ Só uma estudante da área de TI compartilhando suas ideias e projetos.<br>
 ★ Técnico em Desenvolvimento de Jogos pelo <a href="https://www.sp.senai.br/unidade/cyber/">SENAI São Caetano do Sul "Paulo Antonio Skaf"</a> - 2/4 ✨<br>
 ★ Tecnólogo em Segurança da Informação pela <a href="https://fatecsaocaetano.cps.sp.gov.br/">FATEC São Caetano do Sul "Antonio Russo"</a> - 2/6 ✨<br>
 
-![snake animation](https://github.com/<marianacoronado19>/<marianacoronado19>/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake-dark.svg">
