@@ -3,8 +3,8 @@
 Só uma estudante da área de TI compartilhando suas ideias e projetos.<br>
 ★ Técnico de Desenvolvimento de Sistemas pelo SENAI <a href="https://www.sp.senai.br/unidade/automobilistica/">SENAI "Conde José Vicente de Azevedo"
 </a> - Completo ✨<br>
-★ Técnico em Desenvolvimento de Jogos pelo <a href="https://www.sp.senai.br/unidade/cyber/">SENAI São Caetano do Sul "Paulo Antonio Skaf"</a> - 1/4 ✨<br>
-★ Tecnólogo em Segurança da Informação pela <a href="https://fatecsaocaetano.cps.sp.gov.br/">FATEC São Caetano do Sul "Antonio Russo"</a> - 1/6 ✨<br>
+★ Técnico em Desenvolvimento de Jogos pelo <a href="https://www.sp.senai.br/unidade/cyber/">SENAI São Caetano do Sul "Paulo Antonio Skaf"</a> - 2/4 ✨<br>
+★ Tecnólogo em Segurança da Informação pela <a href="https://fatecsaocaetano.cps.sp.gov.br/">FATEC São Caetano do Sul "Antonio Russo"</a> - 2/6 ✨<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake-dark.svg">
