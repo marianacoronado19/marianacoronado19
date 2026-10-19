@@ -1,4 +1,4 @@
-## Oie!✨
+## Olá!🌸
 
 Só uma estudante da área de TI compartilhando suas ideias e projetos.<br>
 ★ Técnico de Desenvolvimento de Sistemas pelo SENAI <a href="https://www.sp.senai.br/unidade/automobilistica/">SENAI "Conde José Vicente de Azevedo"
@@ -12,16 +12,9 @@ Só uma estudante da área de TI compartilhando suas ideias e projetos.<br>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marianacoronado19/marianacoronado19/output/github-contribution-grid-snake.svg">
-</picture> -->
+
+
 <!--
-**marianacoronado19/marianacoronado19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
